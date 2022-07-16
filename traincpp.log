@@ -1,0 +1,7 @@
+﻿  traincpp.cpp
+D:\cpp_projects\traincpp\traincpp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  traincpp.vcxproj -> D:\cpp_projects\traincpp\x64\Release\traincpp.exe
